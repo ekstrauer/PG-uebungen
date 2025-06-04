@@ -1,0 +1,7 @@
+D:/PG-uebungen/Woche1/Uebung1/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/Uebung1.dir
+D:/PG-uebungen/Woche1/Uebung1/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+D:/PG-uebungen/Woche1/Uebung1/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+D:/PG-uebungen/Woche1/Uebung1/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+D:/PG-uebungen/Woche1/Uebung1/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/install.dir
+D:/PG-uebungen/Woche1/Uebung1/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+D:/PG-uebungen/Woche1/Uebung1/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
