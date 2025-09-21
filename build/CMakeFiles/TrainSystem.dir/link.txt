@@ -1,1 +1,0 @@
-/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/TrainSystem.dir/link.d CMakeFiles/TrainSystem.dir/main.cpp.o CMakeFiles/TrainSystem.dir/train.cpp.o CMakeFiles/TrainSystem.dir/locomotive.cpp.o CMakeFiles/TrainSystem.dir/traindriver.cpp.o -o TrainSystem

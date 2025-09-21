@@ -1,7 +1,0 @@
-/home/runner/work/PG-uebungen/PG-uebungen/build/CMakeFiles/TrainSystem.dir
-/home/runner/work/PG-uebungen/PG-uebungen/build/CMakeFiles/edit_cache.dir
-/home/runner/work/PG-uebungen/PG-uebungen/build/CMakeFiles/rebuild_cache.dir
-/home/runner/work/PG-uebungen/PG-uebungen/build/CMakeFiles/list_install_components.dir
-/home/runner/work/PG-uebungen/PG-uebungen/build/CMakeFiles/install.dir
-/home/runner/work/PG-uebungen/PG-uebungen/build/CMakeFiles/install/local.dir
-/home/runner/work/PG-uebungen/PG-uebungen/build/CMakeFiles/install/strip.dir
